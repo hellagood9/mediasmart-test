@@ -17,7 +17,7 @@
     "http": "0.0.0",
     "mongoose": "^5.7.12",
     "node-cron": "^2.0.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "save-dev": "0.0.1-security"
   },
   "devDependencies": {
